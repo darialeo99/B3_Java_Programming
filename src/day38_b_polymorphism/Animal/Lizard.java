@@ -1,6 +1,6 @@
 package day38_b_polymorphism.Animal;
 
-public class Lizard extends Animal {
+public class Lizard extends Reptile {
 
     String skinColor; // instance variable
 
